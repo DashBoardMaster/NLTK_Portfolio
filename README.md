@@ -1,8 +1,8 @@
 # NLTK Portfolio
 This is the portfolio for my NLTK class
 
-## Simple Parser
+## Overview of NLP
 
-This program takes csv data and turns it into objects
+This document has the answers to the questions given in the Assignment outline
 
-You can see...
+You can see the [document here](Overview_of_NLP.pdf)
