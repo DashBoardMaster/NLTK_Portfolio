@@ -15,4 +15,4 @@ You can see the [document here](Overview_of_NLP.pdf)
 The pdf for homework 2 can be found [here](Homework2/Homework2_AVP180003.pdf) and the code can be found [here](Homework2/Homework2_AVP180003.ipynb)
 
 ## WordNetHomework
-The pdf for Word Net Homework can be found [here](WordNet/Homework2_AVP180003.pdf) and the code can be found [here](NLTK_Portfolio/WordNet/)
+The pdf for Word Net Homework can be found [here](WordNet/AVP180003_WordNet.pdf) and the code can be found [here](NLTK_Portfolio/WordNet/)
