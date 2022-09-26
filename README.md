@@ -18,4 +18,4 @@ The pdf for homework 2 can be found [here](Homework2/Homework2_AVP180003.pdf) an
 The pdf for Word Net Homework can be found [here](WordNet/AVP180003_WordNet.pdf) and the code can be found [here](WordNet/WordNetHomework.ipynb)
 
 ## Guessing Game
-[This](Guessing Game/guess.py) is a guessing game program that takes the top 50 words and randomly chooses one to guess in a hangman style game
+[This](Guessing_Game/guess.py) is a guessing game program that takes the top 50 words and randomly chooses one to guess in a hangman style game
