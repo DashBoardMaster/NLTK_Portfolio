@@ -19,3 +19,6 @@ The pdf for Word Net Homework can be found [here](WordNet/AVP180003_WordNet.pdf)
 
 ## Guessing Game
 [This](Guessing_Game/guess.py) is a guessing game program that takes the top 50 words and randomly chooses one to guess in a hangman style game
+
+## N grams
+[This](NGram/ngram.py) is a program that creates the unigram and bigram dicts and then pickles them to be used in [this program](Ngram/langprob.py) which will predict the language for each line from the test data and then output its accuracy
