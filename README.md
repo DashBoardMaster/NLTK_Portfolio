@@ -22,3 +22,6 @@ The pdf for Word Net Homework can be found [here](WordNet/AVP180003_WordNet.pdf)
 
 ## N grams
 [This](NGram/ngram.py) is a program that creates the unigram and bigram dicts and then pickles them to be used in [this program](NGram/langprob.py) which will predict the language for each line from the test data and then output its accuracy. [Here](NGram/N-gramnarrative.pdf) is the narrative.
+
+## Parsing homework
+[This](AVP180003_homeworkparsing.pdf) is a homework that goes over syntax parsing.
